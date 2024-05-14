@@ -1,0 +1,11 @@
+Laptop,Electronics,15000
+Harry Potter,Books,300
+Samsung Fold,Electronics,21000
+Rice,Grocery,25
+Chicken Fillet,Grocery,109
+Apple,Fruits,23
+Mango,Fruits,65
+Drone 65112,Kids Toys,499
+Tractor 12,Kids Toys,199
+Jacket,Clothes,1200
+Shirt,Clothes,200
